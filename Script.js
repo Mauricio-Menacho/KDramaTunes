@@ -167,13 +167,13 @@ const songs = [
         path: 'assets/39.mp3',
         displayName: 'In Heaven',
         cover: 'assets/39.jpg',
-        artist: 'NewJeans',
+        artist: 'JYJ',
     },
     {
         path: 'assets/40.mp3',
         displayName: 'Because I am Stupid',
         cover: 'assets/40.jpg',
-        artist: 'JYJ',
+        artist: 'SS501',
     },
     {
         path: 'assets/26.mp3',
