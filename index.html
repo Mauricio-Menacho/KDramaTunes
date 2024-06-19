@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="/assets/logo.png" type="image/png">
+    <title>KDramaTunes | Mauricio</title>
+</head>
+
+<body>
+
+    <div class="fondo">
+        <img src="" id="img-fondo">
+    </div>
+
+    <div class="contenedor">
+        <div class="img-reproductor">
+            <img src="" class="activo" id="portada">
+        </div>
+
+        <h2 id="titulo-musica"></h2>
+        <h3 id="artista-musica"></h3>
+
+        <div class="progreso-reproductor" id="progreso-reproductor">
+            <div class="progreso" id="progreso"></div>
+            <div class="duracion-musica">
+                <span id="tiempo-actual">0:00</span>
+                <span id="duracion">0:00</span>
+            </div>
+        </div>
+
+        <div class="controles-reproductor">
+            <i class="fa-solid fa-backward" title="Anterior" id="anterior"></i>
+            <i class="fa-solid fa-play boton-reproduccion" title="Reproducir" id="reproducir"></i>
+            <i class="fa-solid fa-forward" title="Siguiente" id="siguiente"></i>
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
