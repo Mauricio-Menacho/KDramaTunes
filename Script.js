@@ -219,7 +219,7 @@ const songs = [
     },
     {
         path: 'assets/33.mp3',
-        displayName: 'attention',
+        displayName: 'Attention',
         cover: 'assets/33.jpg',
         artist: 'NewJeans',
     },
