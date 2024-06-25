@@ -62,6 +62,12 @@ const songs = [
         artist: 'Park Jihyo (TWICE)',
     },
     {
+        path: 'assets/500.mp3',
+        displayName: 'Twenty-five, Twenty-one',
+        cover: 'assets/500.jpeg',
+        artist: 'Jaurim',
+    },
+    {
         path: 'assets/9.mp3',
         displayName: 'To My Youth',
         cover: 'assets/9.jpg',
